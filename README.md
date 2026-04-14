@@ -1,4 +1,4 @@
-# Vehicle Monitoring System (GVMS)
+# Vehicle Monitoring System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![YOLOv8](https://img.shields.io/badge/Object%20Detection-YOLOv8-green.svg)](https://github.com/ultralytics/ultralytics)
