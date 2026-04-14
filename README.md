@@ -111,4 +111,4 @@ You can fine-tune the system's sensitivity in `main.py`:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**Developed with ❤️ for Smart City Initiatives.**
+**Developed by Prem Shah for college use.**
